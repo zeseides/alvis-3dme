@@ -13,7 +13,7 @@ A FiveM script written in Lua that implements the /me command with 3D text displ
 ### 功能說明
 /me 指令允許您在玩家頭頂顯示特定動作文字。這個功能特別適用於無法在遊戲中完成的角色扮演動作。
 
-<img src=https://imgur.com/lJZbcGA.png>
+<img src=https://r2.fivemanage.com/R6bhBKEw45uM4sNjDcQcG/alvis-3dme.png>
 
 ### 安裝方法
 * 下載此資源包；
@@ -58,7 +58,7 @@ A FiveM script written in Lua that implements the /me command with 3D text displ
 ### Description
 The /me command allows you to display specific action text above a player's head. It's particularly useful for roleplay actions that cannot be performed in-game.
 
-<img src=https://imgur.com/lJZbcGA.png>
+<img src=https://r2.fivemanage.com/R6bhBKEw45uM4sNjDcQcG/alvis-3dme.png>
 
 ### Installation
 * Download the resource;
